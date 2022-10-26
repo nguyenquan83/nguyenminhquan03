@@ -1,0 +1,84 @@
+2022-10-18T02:49:58+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "wp_print_media_templates" not found or invalid function name in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 D:\xammp\htdocs\myproject\wordpress\wp-includes\script-loader.php(2139): do_action('wp_print_footer...')
+#3 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\views\footer.php(18): wp_print_footer_scripts()
+#4 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\class-registration.php(243): include_once('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(307): RankMath\Admin\Registration->render_page('')
+#6 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#8 D:\xammp\htdocs\myproject\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#9 {main}
+  thrown in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php on line 307
+
+2022-10-18T02:53:54+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "wp_print_media_templates" not found or invalid function name in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 D:\xammp\htdocs\myproject\wordpress\wp-includes\script-loader.php(2139): do_action('wp_print_footer...')
+#3 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\views\footer.php(18): wp_print_footer_scripts()
+#4 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\class-registration.php(243): include_once('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(307): RankMath\Admin\Registration->render_page('')
+#6 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#8 D:\xammp\htdocs\myproject\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#9 {main}
+  thrown in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php on line 307
+
+2022-10-18T02:53:58+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "wp_print_media_templates" not found or invalid function name in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 D:\xammp\htdocs\myproject\wordpress\wp-includes\script-loader.php(2139): do_action('wp_print_footer...')
+#3 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\views\footer.php(18): wp_print_footer_scripts()
+#4 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\class-setup-wizard.php(301): include_once('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(307): RankMath\Admin\Setup_Wizard->admin_page('')
+#6 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#8 D:\xammp\htdocs\myproject\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#9 {main}
+  thrown in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php on line 307
+
+2022-10-18T02:54:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "wp_print_media_templates" not found or invalid function name in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 D:\xammp\htdocs\myproject\wordpress\wp-includes\script-loader.php(2139): do_action('wp_print_footer...')
+#3 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\views\footer.php(18): wp_print_footer_scripts()
+#4 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\class-setup-wizard.php(301): include_once('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(307): RankMath\Admin\Setup_Wizard->admin_page('')
+#6 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#8 D:\xammp\htdocs\myproject\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#9 {main}
+  thrown in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php on line 307
+
+2022-10-18T02:54:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "wp_print_media_templates" not found or invalid function name in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 D:\xammp\htdocs\myproject\wordpress\wp-includes\script-loader.php(2139): do_action('wp_print_footer...')
+#3 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\views\footer.php(18): wp_print_footer_scripts()
+#4 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\class-setup-wizard.php(301): include_once('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(307): RankMath\Admin\Setup_Wizard->admin_page('')
+#6 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#8 D:\xammp\htdocs\myproject\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#9 {main}
+  thrown in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php on line 307
+
+2022-10-18T02:54:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "wp_print_media_templates" not found or invalid function name in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 D:\xammp\htdocs\myproject\wordpress\wp-includes\script-loader.php(2139): do_action('wp_print_footer...')
+#3 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\wizard\views\footer.php(18): wp_print_footer_scripts()
+#4 D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\admin\class-setup-wizard.php(301): include_once('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(307): RankMath\Admin\Setup_Wizard->admin_page('')
+#6 D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xammp\htdocs\myproject\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#8 D:\xammp\htdocs\myproject\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#9 {main}
+  thrown in D:\xammp\htdocs\myproject\wordpress\wp-includes\class-wp-hook.php on line 307
+

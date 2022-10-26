@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#music-zone-ui-tabs").tabs()});

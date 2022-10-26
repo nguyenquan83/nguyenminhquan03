@@ -1,0 +1,410 @@
+# Translation of Plugins - WP Mail SMTP by WPForms &#8211; The Most Popular SMTP and Email Log Plugin - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms &#8211; The Most Popular SMTP and Email Log Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-12 11:21:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms &#8211; The Most Popular SMTP and Email Log Plugin - Stable (latest release)\n"
+
+#: src/Admin/Area.php:579
+msgid "Download"
+msgstr "Tải về"
+
+#: src/Providers/AmazonSES/Options.php:25
+msgid "Amazon SES"
+msgstr "Amazon SES"
+
+#: src/Providers/Outlook/Options.php:39
+msgid "We're sorry, the Microsoft Outlook mailer is not available on your plan. Please upgrade to the PRO plan to unlock all these awesome features."
+msgstr "Phiên bản hiện tại không hỗ trợ Microsoft Outlook. Hãy nâng cấp lên bản PRO để có tất cả tính năng."
+
+#: src/Admin/Area.php:487 src/Admin/SetupWizard.php:252
+msgid "Already purchased?"
+msgstr "Đã đặt mua?"
+
+#: src/Admin/Area.php:282 src/Admin/Area.php:283 src/Admin/Area.php:468
+#: src/Admin/SetupWizard.php:233 src/Reports/Emails/Summary.php:313
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp lên Pro"
+
+#: src/Admin/Pages/SettingsTab.php:487
+msgid "Thanks for being a loyal WP Mail SMTP user. Upgrade to WP Mail SMTP Pro to unlock more awesome features and experience why WP Mail SMTP is the most popular SMTP plugin."
+msgstr "Cảm ơn vì đã trung thành với WP Mail SMTP. Nâng cấp lên WP Mail SMTP Pro để có nhiều tính năng hấp dẫn và trải nghiệm lý do tại sao WP Mail SMTP là plugin SMTP phổ biến nhất."
+
+#: src/Admin/Pages/SettingsTab.php:381
+msgid "You're using WP Mail SMTP Lite - no license needed. Enjoy!"
+msgstr "Bạn đang sử dụng WP Mail SMTP Lite - không cần giấy phép. Hãy tận hưởng!"
+
+#: src/Admin/Pages/SettingsTab.php:86
+msgid "License Key"
+msgstr "Mã giấy phép"
+
+#: src/Admin/Pages/SettingsTab.php:78
+msgid "Your license key provides access to updates and support."
+msgstr "Mã giấy phép cho phép bạn cập nhật và nhận được hỗ trợ."
+
+#: src/Admin/Pages/SettingsTab.php:75
+msgid "License"
+msgstr "Giấy phép"
+
+#. translators: %s - WPMailSMTP.com URL.
+#: src/Admin/Pages/SettingsTab.php:521
+msgid "<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Get WP Mail SMTP Pro Today and Unlock all the Powerful Features &raquo;</a>"
+msgstr "<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Mua WP Mail SMTP Pro ngay và mở khóa các tính năng cao cấp &raquo;</a>"
+
+#: src/Admin/Pages/SettingsTab.php:483
+msgid "Get WP Mail SMTP Pro and Unlock all the Powerful Features"
+msgstr "Mua WP Mail SMTP Pro và mở khóa các tính năng cao cấp"
+
+#: src/Admin/Pages/VersusTab.php:140
+msgid "Get WP Mail SMTP Pro Today and Unlock all of these Powerful Features"
+msgstr "Mua WP Mail SMTP Pro ngay và mở khóa các tính năng cao cấp"
+
+#: src/Admin/Pages/VersusTab.php:80
+msgid "Get the most out of WP Mail SMTP by upgrading to Pro and unlocking all of the powerful features."
+msgstr "Nhận được nhiều hơn với WP Mail SMTP bằng cách nâng cấp lên Pro và mở khóa các tính năng cao cấp."
+
+#: src/Admin/Pages/VersusTab.php:263
+msgid "Priority Support"
+msgstr "Hỗ trợ ưu tiên"
+
+#: src/Admin/Pages/VersusTab.php:257
+msgid "Limited Support"
+msgstr "Hỗ trợ giới hạn"
+
+#: src/Admin/Pages/VersusTab.php:99
+msgid "Pro"
+msgstr "Pro"
+
+#: src/Admin/Pages/VersusTab.php:89
+msgid "Feature"
+msgstr "Tính năng"
+
+#: src/Admin/Pages/AboutTab.php:271
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: src/Admin/Pages/AboutTab.php:298
+msgid "MonsterInsights Pro"
+msgstr "MonsterInsights Pro"
+
+#: src/Admin/Pages/AboutTab.php:292
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: src/Providers/Gmail/Options.php:227
+msgid "You need to save settings with Client ID and Client Secret before you can proceed."
+msgstr "Bạn cần lưu cài đặt với Client ID và Client Secret trước khi tiếp tục."
+
+#: src/Admin/Area.php:261 src/Admin/Area.php:262 src/Admin/Pages/Logs.php:48
+#: src/Admin/Pages/LogsTab.php:51 src/Admin/Pages/LogsTab.php:143
+#: src/Admin/Pages/VersusTab.php:176
+msgid "Email Log"
+msgstr "Email Log"
+
+#: src/Admin/Pages/About.php:50 src/Admin/Pages/AboutTab.php:43
+msgid "About Us"
+msgstr "Giới thiệu"
+
+#: src/Admin/Pages/AboutTab.php:70
+msgid "Hello and welcome to WP Mail SMTP, the easiest and most popular WordPress SMTP plugin. We build software that helps your site reliably deliver emails every time."
+msgstr "Xin chào và chào mừng đến với WP Mail SMTP, plugin SMTP đơn giản và phổ biến nhất cho WordPress. Chúng tôi xây dựng công cụ giúp quá trình gửi mail trở nên tin cậy hơn."
+
+#: assets/languages/wp-mail-smtp-vue.php:399
+#: src/Providers/OptionsAbstract.php:266
+msgid "Auto TLS"
+msgstr "Auto TLS"
+
+#: assets/languages/wp-mail-smtp-vue.php:420
+#: src/Providers/OptionsAbstract.php:244
+msgid "For most servers TLS is the recommended option. If your SMTP provider offers both SSL and TLS options, we recommend using TLS."
+msgstr "For most servers TLS is the recommended option. If your SMTP provider offers both SSL and TLS options, we recommend using TLS."
+
+#: src/Providers/Sendgrid/Options.php:84
+msgid "Create API Key"
+msgstr "Tạo key API"
+
+#. translators: %s - SendGrid access level.
+#: src/Providers/Sendgrid/Options.php:92
+msgid "To send emails you will need only a %s access level for this API key."
+msgstr "To send emails you will need only a %s access level for this API key."
+
+#. translators: %s - API key link.
+#: src/Providers/Sendgrid/Options.php:82
+msgid "Follow this link to get an API Key from SendGrid: %s."
+msgstr "Follow this link to get an API Key from SendGrid: %s."
+
+#: assets/languages/wp-mail-smtp-vue.php:203
+#: src/Providers/PepipostAPI/Options.php:96
+#: src/Providers/Sendgrid/Options.php:63
+#: src/Providers/Sendinblue/Options.php:104
+#: src/Providers/Sendlayer/Options.php:87 src/Providers/SMTPcom/Options.php:99
+#: src/Providers/SparkPost/Options.php:83
+msgid "API Key"
+msgstr "API Key"
+
+#: src/Providers/Sendgrid/Options.php:26
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: src/Providers/SMTP/Options.php:25
+msgid "Other SMTP"
+msgstr "Other SMTP"
+
+#: src/Providers/PepipostAPI/Options.php:63
+msgid "Pepipost"
+msgstr "Pepipost"
+
+#. translators: %1$s - Provider name; %2$s - PHP version required by Provider;
+#. %3$s - current PHP version.
+#: src/Providers/OptionsAbstract.php:426
+msgid "%1$s requires PHP %2$s to work and does not support your current PHP version %3$s. Please contact your host and request a PHP upgrade to the latest one."
+msgstr "%1$s requires PHP %2$s to work and does not support your current PHP version %3$s. Please contact your host and request a PHP upgrade to the latest one."
+
+#: assets/languages/wp-mail-smtp-vue.php:417
+#: src/Providers/OptionsAbstract.php:321
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+#: assets/languages/wp-mail-smtp-vue.php:414
+#: src/Providers/OptionsAbstract.php:307
+msgid "SMTP Username"
+msgstr "SMTP Username"
+
+#: src/Admin/Pages/AlertsTab.php:119 src/Admin/Pages/AlertsTab.php:150
+#: src/Admin/Pages/AlertsTab.php:181 src/Admin/Pages/AlertsTab.php:230
+#: src/Admin/Pages/ControlTab.php:298 src/Admin/Pages/TestTab.php:168
+#: src/Providers/OptionsAbstract.php:277 src/Providers/OptionsAbstract.php:299
+msgid "Off"
+msgstr "Tắt"
+
+#: src/Admin/Pages/AlertsTab.php:118 src/Admin/Pages/AlertsTab.php:149
+#: src/Admin/Pages/AlertsTab.php:180 src/Admin/Pages/AlertsTab.php:229
+#: src/Admin/Pages/ControlTab.php:295 src/Admin/Pages/TestTab.php:167
+#: src/Providers/OptionsAbstract.php:276 src/Providers/OptionsAbstract.php:298
+msgid "On"
+msgstr "Bật"
+
+#: assets/languages/wp-mail-smtp-vue.php:429
+#: src/Providers/OptionsAbstract.php:240
+msgid "TLS"
+msgstr "TLS"
+
+#: assets/languages/wp-mail-smtp-vue.php:426
+#: src/Providers/OptionsAbstract.php:231
+msgid "SSL"
+msgstr "SSL"
+
+#: assets/languages/wp-mail-smtp-vue.php:423
+#: src/Providers/OptionsAbstract.php:222
+msgid "None"
+msgstr "Không"
+
+#: src/Providers/Mailgun/Options.php:101
+msgid "Get a Domain Name"
+msgstr "Get a Domain Name"
+
+#. translators: %s - Domain Name link.
+#: src/Providers/Mailgun/Options.php:99
+msgid "Follow this link to get a Domain Name from Mailgun: %s."
+msgstr "Follow this link to get a Domain Name from Mailgun: %s."
+
+#: assets/languages/wp-mail-smtp-vue.php:474
+#: src/Providers/Mailgun/Options.php:87
+msgid "Domain Name"
+msgstr "Tên miền"
+
+#: src/Providers/Mailgun/Options.php:76
+msgid "Get a Private API Key"
+msgstr "Get a Private API Key"
+
+#: assets/languages/wp-mail-smtp-vue.php:838
+#: src/Providers/Mailgun/Options.php:55
+msgid "Private API Key"
+msgstr "Private API Key"
+
+#: src/Providers/Mailgun/Options.php:25
+msgid "Mailgun"
+msgstr "Mailgun"
+
+#: src/Providers/Mail/Options.php:26
+msgid "Default (none)"
+msgstr "Default (none)"
+
+#: src/Providers/Gmail/Options.php:177
+msgid "Click the button above to confirm authorization."
+msgstr "Click the button above to confirm authorization."
+
+#: src/Providers/Gmail/Options.php:174
+msgid "Allow plugin to send emails using your Google account"
+msgstr "Allow plugin to send emails using your Google account"
+
+#: src/Providers/Gmail/Options.php:132
+msgid "Copy URL to clipboard"
+msgstr "Copy URL to clipboard"
+
+#: src/Providers/Gmail/Options.php:124
+msgid "Authorized redirect URI"
+msgstr "Authorized redirect URI"
+
+#: assets/languages/wp-mail-smtp-vue.php:249
+#: src/Providers/Gmail/Options.php:102
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: assets/languages/wp-mail-smtp-vue.php:246 src/Providers/Gmail/Options.php:87
+msgid "Client ID"
+msgstr "Client ID"
+
+#. translators: %s - email address a test email will be sent to.
+#: src/Admin/Pages/TestTab.php:296 src/Admin/Pages/TestTab.php:302
+msgid "Test email to %s"
+msgstr "Test email to %s"
+
+#: src/Admin/Pages/TestTab.php:284
+msgid "Test failed. Please use a valid email address and try to resend the test email."
+msgstr "Test failed. Please use a valid email address and try to resend the test email."
+
+#: src/Admin/Pages/TestTab.php:195
+msgid "Send Email"
+msgstr "Gửi Email"
+
+#: src/Admin/Pages/AlertsTab.php:127 src/Admin/Pages/TestTab.php:147
+msgid "Send To"
+msgstr "Send To"
+
+#: src/Admin/Pages/TestTab.php:102
+msgid "Email Test"
+msgstr "Kiểm tra Email"
+
+#. translators: %s - URL to Mailgun.com page.
+#: src/Providers/Mailgun/Options.php:141
+msgid "<a href=\"%s\" rel=\"\" target=\"_blank\">More information</a> on Mailgun.com."
+msgstr "<a href=\"%s\" rel=\"\" target=\"_blank\">Tìm hiểu thêm</a> ở Mailgun.com."
+
+#: assets/languages/wp-mail-smtp-vue.php:495
+#: src/Providers/Mailgun/Options.php:131
+#: src/Providers/SparkPost/Options.php:137
+msgid "EU"
+msgstr "EU"
+
+#: assets/languages/wp-mail-smtp-vue.php:492
+#: src/Providers/Mailgun/Options.php:122
+#: src/Providers/SparkPost/Options.php:128
+msgid "US"
+msgstr "US"
+
+#: assets/languages/wp-mail-smtp-vue.php:240
+#: src/Providers/Mailgun/Options.php:112
+#: src/Providers/SparkPost/Options.php:118
+msgid "Region"
+msgstr "Khu vực"
+
+#: src/Admin/Area.php:327 src/Admin/Area.php:333
+#: src/Admin/Pages/SettingsTab.php:39
+msgid "General"
+msgstr "Tổng quan"
+
+#: src/Admin/Pages/MiscTab.php:37
+msgid "Misc"
+msgstr "Khác"
+
+#: src/Admin/Pages/MiscTab.php:214
+msgid "Uninstall WP Mail SMTP"
+msgstr "Gỡ cài đặt WP mail SMTP"
+
+#: src/Admin/Pages/DebugEventsTab.php:367 src/Admin/Pages/MiscTab.php:349
+#: src/Admin/Pages/SettingsTab.php:682
+msgid "Settings were successfully saved."
+msgstr "Đã lưu cài đặt thành công."
+
+#: src/Admin/Pages/MiscTab.php:130
+msgid "Hide Announcements"
+msgstr "Ẩn thông báo"
+
+#: src/Admin/Pages/MiscTab.php:75
+msgid "Do Not Send"
+msgstr "Không gửi"
+
+#. translators: %s - Mailer anchor link.
+#: src/Admin/Area.php:196
+msgid "Thanks for using WP Mail SMTP! To complete the plugin setup and start sending emails, <strong>please select and configure your <a href=\"%s\">Mailer</a></strong>."
+msgstr "Cảm ơn đã sử dụng WP Mail SMTP! Để hoàn thành cài đặt plugin và bắt đầu gửi email, <strong>hãy chọn và cấu hình <a href=\"%s\">Phương thức gửi mail</a></strong>"
+
+#: src/Admin/Pages/AboutTab.php:243
+msgid "Install Plugin"
+msgstr "Cài đặt plugin"
+
+#: assets/languages/wp-mail-smtp-vue.php:591 src/Admin/Area.php:571
+#: src/Admin/Pages/AboutTab.php:224
+msgid "Activated"
+msgstr "Đã kích hoạt"
+
+#: src/Admin/Area.php:572 src/Admin/Pages/AboutTab.php:221
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: src/Admin/Pages/AboutTab.php:240
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: src/Admin/DashboardWidget.php:452
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: src/Admin/Area.php:252 src/Admin/Area.php:253 src/Admin/Area.php:1191
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: assets/languages/wp-mail-smtp-vue.php:216
+#: src/Admin/Pages/SettingsTab.php:121
+msgid "From Email"
+msgstr "Mail đi"
+
+#: assets/languages/wp-mail-smtp-vue.php:210 src/Admin/Pages/ExportTab.php:121
+#: src/Admin/Pages/SettingsTab.php:191
+msgid "From Name"
+msgstr "Tên người gửi"
+
+#: assets/languages/wp-mail-smtp-vue.php:501 src/Admin/Pages/ExportTab.php:135
+#: src/Admin/Pages/SettingsTab.php:258
+msgid "Mailer"
+msgstr "Phương thức gửi mail"
+
+#: src/Admin/Pages/SettingsTab.php:236
+msgid "Return Path"
+msgstr "Đường dẫn trở về"
+
+#: src/Admin/Pages/SettingsTab.php:245
+msgid "Set the return-path to match the From Email"
+msgstr "Đặt đường dẫn trở về để khớp với địa chỉ Email gửi đi (From Email)"
+
+#: assets/languages/wp-mail-smtp-vue.php:390
+#: src/Providers/OptionsAbstract.php:198
+msgid "SMTP Host"
+msgstr "SMTP Host"
+
+#: assets/languages/wp-mail-smtp-vue.php:396
+#: src/Providers/OptionsAbstract.php:252
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: assets/languages/wp-mail-smtp-vue.php:393
+#: src/Providers/OptionsAbstract.php:212
+msgid "Encryption"
+msgstr "Mã hóa"
+
+#: assets/languages/wp-mail-smtp-vue.php:408
+#: src/Providers/OptionsAbstract.php:288
+msgid "Authentication"
+msgstr "Xác thực"
+
+#: assets/languages/wp-mail-smtp-vue.php:177 src/Admin/Pages/TestTab.php:230
+#: src/SiteHealth.php:352
+msgid "Send a Test Email"
+msgstr "Gửi một E-mail thử nghiệm"

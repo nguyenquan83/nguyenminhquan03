@@ -1,0 +1,6 @@
+2022-10-19T07:48:20+00:00 CRITICAL Out of memory (allocated 115343360) (tried to allocate 131072 bytes) in D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\elementor-pro\modules\slides\widgets\slides.php on line 987
+
+2022-10-19T07:48:22+00:00 CRITICAL Out of memory (allocated 121634816) (tried to allocate 53248 bytes) in D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 266
+
+2022-10-19T07:48:22+00:00 CRITICAL Out of memory (allocated 121634816) (tried to allocate 53248 bytes) in D:\xammp\htdocs\myproject\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 266
+

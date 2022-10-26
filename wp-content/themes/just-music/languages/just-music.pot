@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-05 15:30+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/customizer/about.php:4
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer/about.php:5
+msgid "About Section options."
+msgstr ""
+
+#: inc/customizer/about.php:17
+msgid "About Section Enable"
+msgstr ""
+
+#: inc/customizer/about.php:37 inc/customizer/album.php:58
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/about.php:60
+msgid "Btn Label"
+msgstr ""
+
+#: inc/customizer/about.php:81
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/album.php:4
+msgid "Recent Album"
+msgstr ""
+
+#: inc/customizer/album.php:5
+msgid "Recent Album Section options."
+msgstr ""
+
+#: inc/customizer/album.php:16
+msgid "Recent Album Section Enable"
+msgstr ""
+
+#: inc/customizer/album.php:35
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/album.php:81
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/album.php:104
+#, php-format
+msgid "Select Product %d"
+msgstr ""
+
+#: inc/customizer/album.php:115
+#, php-format
+msgid "Sub Title %d"
+msgstr ""
+
+#: inc/front-sections/about.php:65
+msgid "Read More"
+msgstr ""

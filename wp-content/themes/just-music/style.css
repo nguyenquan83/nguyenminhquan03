@@ -1,0 +1,188 @@
+/**
+Theme Name: Just Music
+Theme URI: https://themepalace.com/downloads/just-music/
+Author: themepalace
+Author URI: https://themepalace.com
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 6.0
+Requires at least: 5.0
+Template: music-zone
+Text Domain: just-music
+Description: Just Music - the child theme of Music Zone, is beautiful and very attractive, polished and professional, robust and easy to use highly responsive musical WordPress theme. If you're a musician take a look at this Just Music theme, this may help you to show your music creativity to the audience. This theme is totally free and will support you to share music and raise your creativity yourself. Fully easy to customize and compatible with all devices. Music artists, bands, DJs, well, anyone in the music space, you are all more than welcome to use this theme.  
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: translation-ready, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, editor-style, right-sidebar, full-width-template, two-columns, grid-layout, custom-colors, custom-header, custom-logo, featured-image-header, blog, portfolio, entertainment
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+.dark-version {
+    background-color: #1a1f1a;
+}
+
+.home.blog #masthead,
+#masthead{
+	position: relative;
+	background-color: #000;
+}
+
+.home #masthead{
+	background-color: transparent;
+}
+
+.customize-support #masthead {
+    top: 0;
+}
+
+.page article .featured-image{
+	margin-bottom: 30px;	
+}
+
+#page-site-header {
+    padding: 40px 0;
+    text-align: left;
+}
+
+.dark-version #secondary .widget,
+#colophon {
+    background-color: #000;
+}
+
+#secondary .widget-title,
+#secondary .widget.widget_block h2{
+	background-color: #111;
+}
+
+.dark-version #secondary ul li a:hover,
+.dark-version #secondary ul li a:focus {
+    color: #ff2d55;
+    opacity: 1;
+}
+
+a:hover, a:focus, a:active {
+    color: #ff2d55;
+}
+
+.navigation.posts-navigation svg, .navigation.post-navigation svg {
+    width: 20px;
+    height: 21px;
+}
+
+.posts-navigation .nav-previous svg,
+.post-navigation .nav-previous svg{
+	margin-right: 5px;
+    margin-top: -3px;
+}
+
+.posts-navigation .nav-next svg,
+.post-navigation .nav-next svg{
+	margin-left: 5px;
+    margin-top: -3px;
+}
+
+
+.dark-version .navigation.post-navigation a:hover svg, 
+.dark-version .navigation.posts-navigation a:hover svg, 
+.dark-version .navigation.post-navigation a:focus svg, 
+.dark-version .navigation.posts-navigation a:focus svg{
+	fill: #ff2d55 !important;
+}
+
+.dark-version .navigation.post-navigation a:hover, 
+.dark-version .navigation.posts-navigation a:hover, 
+.dark-version .navigation.post-navigation a:focus, 
+.dark-version .navigation.posts-navigation a:focus {
+    color: #ff2d55;
+}
+
+#music-player {
+	padding: 0px;
+}
+
+#music-player .wrapper{
+	width: 100%;
+	padding-right: 0px;
+	padding-left: 0px;
+	max-width: 100%;
+}
+
+.wp-playlist-tracks .wp-playlist-item.wp-playlist-playing,
+.wp-playlist-current-item{
+	border-radius: 0px;
+}
+
+#music-player .wp-playlist-tracks,
+.wp-playlist-current-item,
+.wp-playlist .mejs-container .mejs-controls {
+    background-color: #000000;
+}
+
+.wp-playlist-tracks .wp-playlist-item {
+    margin-bottom: 2px;
+    padding: 10px;
+    min-height: auto;
+    border-radius: 0px;
+}
+
+.wp-playlist-tracks .wp-playlist-item-length{
+	top: 10px;
+}
+
+#music-player .wp-audio-playlist .wp-playlist-current-item {
+    border-top: 2px solid #b3b3b3;
+}
+
+#music_zone_playlist_section .featured-image {
+     margin-top: 0px; 
+}
+
+#music_zone_events_section .event-item {
+    background-color: rgb(21 18 18 / 60%);
+}
+
+@media screen and (min-width: 767px){
+	#music_zone_playlist_section .featured-image, #music_zone_playlist_section .wp-playlist-tracks {
+	    float: right;
+	}
+
+}
+
+
+@media screen and (min-width: 992px){
+	#page-site-header .page-title {
+	    font-size: 42px;
+	}
+
+}
+
+@media screen and (min-width: 1024px){
+	.main-navigation ul.nav-menu > li.current-menu-item > a, .main-navigation ul.nav-menu > li > a:hover, .main-navigation ul.nav-menu > li > a:focus {
+	     color: #ff2d55;
+	     border-bottom: none;
+	}
+
+	.page-section {
+	    padding: 60px 0;
+	}
+
+	#masthead{
+		position: relative;
+	}
+
+}
+
+@media screen and (min-width: 1900px){
+	#music-player .wrapper {
+	    max-width: 100%;
+	}
+}
+
+
+@media screen and (max-width: 567px){
+	#page-site-header .page-title {
+	    font-size: 28px;
+	}
+}

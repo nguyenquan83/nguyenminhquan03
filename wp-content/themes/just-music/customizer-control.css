@@ -1,0 +1,5 @@
+#accordion-section-music_zone_service_section,
+#accordion-section-music_zone_subscription_section,
+#accordion-section-music_zone_counter_section{
+    display: none !important;
+}
